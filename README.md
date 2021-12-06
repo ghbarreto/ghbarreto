@@ -1,4 +1,4 @@
-## Hello! I'm Gabriel Barreto!
+## Hello! I'm <img src="https://i.imgur.com/LfY2bRA.png" style="width: 25px; height:25px;"/>abriel Barreto!
  <div>
   <a href="https://github.com/ghbarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghbarreto&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false"/>
@@ -12,7 +12,8 @@
 ## Languages and Tools!
 <div style="display: inline_block;"><br>
   <img align="center" alt="gh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">![68747470733a2f2f692e696d6775722e636f6d2f4c6659326252412e706e67](https://user-images.githubusercontent.com/47068777/144786216-94747089-7ee9-43ee-aebd-73d3b073bdf3.png)
+
   <img align="center" alt="gh-SaSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="gh-less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="gh-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
