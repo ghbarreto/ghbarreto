@@ -1,4 +1,14 @@
-## Hello! I'm <img src="https://i.imgur.com/LfY2bRA.png" style="width: 25px; height:25px;"/>abriel Barreto!
+
+<div style="display: inline">
+
+ 
+ ## Hello! I'm <img src="https://i.imgur.com/LfY2bRA.png" style="width: 25px; height:25px;"/>abriel Barreto!
+
+   
+  <img src="https://user-images.githubusercontent.com/47068777/150711210-153b0791-e375-4ddf-b143-7b1e20300ca9.png" style="width: 300px; height:300px;"/> 
+
+ 
+</div>
  <div>
   <a href="https://github.com/ghbarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghbarreto&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false"/>
@@ -8,13 +18,12 @@
  <br/>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ghbarreto&label=Profile%20views&color=0e75b6&style=flat" alt="ghbarreto" /> </p>
-  
+
+ 
 ## Languages and Tools!
 <div style="display: inline_block;"><br>
   <img align="center" alt="gh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gh-SaSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="gh-less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="gh-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gh-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gh-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
@@ -22,11 +31,7 @@
   <img align="center" alt="gh-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="gh-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gh-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="gh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gh-flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="gh-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="gh-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="gh-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
 </div>
  
   ## Reach me!
