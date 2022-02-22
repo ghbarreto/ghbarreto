@@ -3,21 +3,11 @@
 
  
  ## Hello! I'm <img src="https://i.imgur.com/LfY2bRA.png" style="width: 25px; height:25px;"/>abriel Barreto!
-
+</div>
    
   <img src="https://user-images.githubusercontent.com/47068777/150711210-153b0791-e375-4ddf-b143-7b1e20300ca9.png" style="width: 300px; height:300px;"/> 
-
  
-</div>
- <div>
-  <a href="https://github.com/ghbarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghbarreto&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghbarreto&layout=compact&langs_count=11&theme=city_lights"/>
-
-</div>
- <br/>
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghbarreto&label=Profile%20views&color=0e75b6&style=flat" alt="ghbarreto" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=ghbarreto&label=Views&color=fd3a8c&style=plastic" alt="ghbarreto" /> </p>
 
  
 ## Languages and Tools!
@@ -36,7 +26,6 @@
  
   ## Reach me!
   <div> 
-  <a href="https://instagram.com/ghbarreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriqve.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ghbarreto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
