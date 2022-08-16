@@ -2,7 +2,7 @@
 <div style="display: inline">
 
  
- ## Hello! I'm <img src="https://i.imgur.com/LfY2bRA.png" style="width: 25px; height:25px;"/>abriel Barreto!
+ ## Hello! I'm Gabriel Barreto!
 </div>
    
   <img src="https://user-images.githubusercontent.com/47068777/150711210-153b0791-e375-4ddf-b143-7b1e20300ca9.png" style="width: 300px; height:300px;"/> 
